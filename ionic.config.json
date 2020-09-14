@@ -1,5 +1,6 @@
 {
   "name": "password_hash",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "9a789b7f"
 }
