@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    build: .
+    container_name: ionic
+    volumes:
+      - .:/code
+#      - /code/node_modules
+    ports:
+    - 8100:8100
